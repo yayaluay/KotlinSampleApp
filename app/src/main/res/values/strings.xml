@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kotlin Sample App</string>
+    <string name="str_company">company:</string>
+    <string name="str_location">location:</string>
+    <string name="str_email">email:</string>
+    <string name="str_blog">blog:</string>
+    <string name="str_twitter">twitter:</string>
+    <string name="str_user_img">user image</string>
+    <string name="str_followers">followers・</string>
+    <string name="str_following">following</string>
+</resources>
